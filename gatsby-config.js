@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `All Things Alpaca UK`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://www.allthingsalpacauk.co.uk/`,
   },
   plugins: [],
 }
